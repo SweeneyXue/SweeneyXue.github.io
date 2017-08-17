@@ -1,7 +1,7 @@
-http://xuexin.me/2017/08/16/我又回来了/
-http://xuexin.me/2016/11/23/计算Fibonacci数列/
-http://xuexin.me/2016/11/09/Git笔记/
-http://xuexin.me/2016/11/02/《混沌激光相关法光时域反射测量技术》笔记/
-http://xuexin.me/2016/10/31/读《混沌激光的产生与应用》笔记/
-http://xuexin.me/2016/10/29/POJ1000/
-http://xuexin.me/2016/10/29/hello-world/
+http://yoursite.com/2017/08/16/我又回来了/
+http://yoursite.com/2016/11/23/计算Fibonacci数列/
+http://yoursite.com/2016/11/09/Git笔记/
+http://yoursite.com/2016/11/02/《混沌激光相关法光时域反射测量技术》笔记/
+http://yoursite.com/2016/10/31/读《混沌激光的产生与应用》笔记/
+http://yoursite.com/2016/10/29/POJ1000/
+http://yoursite.com/2016/10/29/hello-world/
